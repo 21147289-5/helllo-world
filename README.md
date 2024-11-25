@@ -1,2 +1,2 @@
 # helllo-world
-Este repositório é para praticar o fluxo do GitHub.
+sobre mim : sou um cara maneiro que gosta de cachorro.
